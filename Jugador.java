@@ -36,7 +36,7 @@ class Jugador {
         exitos++;
     }
     public int getExitos() {
-        return(exitos);
+        return exitos;
     }
 
 }
