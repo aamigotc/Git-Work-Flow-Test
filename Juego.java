@@ -64,7 +64,7 @@ public class Juego {
 
             }
 
-            System.out.println();
+            System.out.println("fasf");
 
         } while (!finDeJuego);
     }
